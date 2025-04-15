@@ -139,12 +139,12 @@ TextureImporter:
       name: FondTimer_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 532.5
-        width: 466.5
-        height: 532.5
+        x: 20
+        y: 532
+        width: 446
+        height: 448
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -161,11 +161,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 466
-        y: 532.5
-        width: 466.5
-        height: 532.5
+        y: 532
+        width: 449
+        height: 448
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -181,12 +181,12 @@ TextureImporter:
       name: FondTimer_2
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0.5
-        width: 466.5
-        height: 532.5
+        x: 20
+        y: 85
+        width: 446
+        height: 449
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -203,11 +203,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 466
-        y: 0.5
-        width: 466.5
-        height: 532.5
+        y: 85
+        width: 449
+        height: 448
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
